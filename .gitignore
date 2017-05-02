@@ -1,0 +1,4 @@
+ext/
+.gclient_entries
+.idea/
+cmake-build-debug/
